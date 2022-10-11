@@ -27,3 +27,5 @@ He/Him
 [![](https://img.shields.io/badge/-📝%20InstaReady-000)](https://nikunj-instaready.herokuapp.com/)
 [![](https://img.shields.io/badge/-🛰%20StackPOP-000)](https://github.com/nikunjsardhara/stackpop)
 [![](https://img.shields.io/badge/-🔬%20PatioCover.com-000)](http://patiocover.com/)
+
+[![Nikunj's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2402682)](https://stackoverflow.com/users/2402682/nikunj-sardhara)
