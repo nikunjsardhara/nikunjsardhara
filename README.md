@@ -3,9 +3,9 @@
 
 **About me**
 
-- 💼 Full Stack Freelance Engineer with 7+ Years of Experience
+- 💼 Full Stack Freelance Engineer with 8+ Years of Experience
 
-- ❤️ I love writing JavaScript/TypeScript, and building fun applications
+- ❤️ I love writing JavaScript/TypeScript, and building fun applications using Next.js
 
 - 💬 Ask me about anything [here](https://github.com/nikunjsardhara/nikunjsardhara/issues)
 
@@ -22,6 +22,7 @@ He/Him
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
   ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
   ![React Router](https://img.shields.io/badge/react-router-black?style=flat-square&logo=react-router)
