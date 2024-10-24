@@ -5,7 +5,7 @@
 
 - 💼 Full Stack Freelance Engineer with 8+ Years of Experience
 
-- ❤️ I love writing JavaScript/TypeScript, and building fun applications using Next.js
+- ❤️ I love writing JavaScript/TypeScript, and building fun applications using React and Next.js
 
 - 💬 Ask me about anything [here](https://github.com/nikunjsardhara/nikunjsardhara/issues)
 
