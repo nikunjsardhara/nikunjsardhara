@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Full Stack Freelance Engineer with 8+ Years of Experience
+- 💼 Full Stack Developer with 8+ Years of Experience
 
 - ❤️ I love writing JavaScript/TypeScript, and building fun applications using React and Next.js
 
